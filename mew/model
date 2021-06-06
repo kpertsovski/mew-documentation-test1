@@ -1,0 +1,8 @@
+promptResponse:
+  modelName: documentaiton-test1
+  userName: Risk
+  modelClass: NowCasting
+  modelOwner: Finance
+  modelDescription: Model description
+  languages:
+    - Python
